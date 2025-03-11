@@ -1,12 +1,57 @@
-## Hi there 👋
-# 💫 About Me:
-🔭 I’m currently working on: A Django-based project for managing patient visits, integrating procedures, and utilizing HTMX for seamless user interactions.<br><br>👯 I’m looking to collaborate on: Full-stack development projects, particularly those focusing on interactive applications, management systems, or education technology.<br><br>🤝 I’m looking for help with: Advanced OAuth workflows, and optimizing cross-platform and responsive designs.<br><br>🌱 I’m currently learning: Angular NgRx for state management and enhancing my skills in Django REST framework to build scalable APIs.<br><br>💬 Ask me about: .NET, Angular, Django, building management systems, and creating efficient, user-friendly applications.<br><br>⚡ Fun fact: I once helped a local business streamline their warehouse management, saving them hours of manual work each week!
+# 👋 Hi, I'm Muhammad Farhan!  
 
+🔹 **Full-Stack & Embedded Systems Developer** with expertise in **C#, .NET, Angular, Python, and FPGA development**  
+🔹 Passionate about **performance optimization, workflow automation, and building scalable applications**  
+🔹 Currently learning **FPGA programming** and expanding my skills in **embedded systems and hardware acceleration**  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/faaran/) 
+---
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## 🚀 What I’m Working On  
+🔧 Developing **a Django-based patient visit management system** with **HTMX for seamless UI interactions**  
+🔧 Building **interactive dashboards** for **business insights using PostgreSQL & Highcharts**  
+🔧 Exploring **FPGA development** to enhance **hardware-accelerated computing**  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> ...
+---
+
+## 🤝 Let's Collaborate On  
+✔ **Full-stack development (.NET, Angular, Django, Python)**  
+✔ **Embedded systems & FPGA projects**  
+✔ **Workflow automation & performance optimization**  
+
+---
+
+## 📚 What I’m Learning  
+🌱 **FPGA development & hardware acceleration**  
+🌱 **Advanced system architecture & cloud computing**  
+🌱 **Optimizing software for high-performance applications**  
+
+---
+
+## 💬 Ask Me About  
+💻 **.NET, Angular, Django, Python, SQL, REST APIs**  
+⚙️ **Embedded systems & FPGA design**  
+🔍 **Building scalable, user-friendly applications**  
+
+---
+
+## 🌍 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faaran/)  
+
+---
+
+## 🛠 Tech Stack  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
+![FPGA](https://img.shields.io/badge/FPGA-%2300599C.svg?style=for-the-badge&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+---
+
+### 📊 GitHub Stats  
+![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faaran&show_icons=true&theme=radical)  
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
