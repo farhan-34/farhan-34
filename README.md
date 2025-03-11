@@ -49,9 +49,5 @@
 ![FPGA](https://img.shields.io/badge/FPGA-%2300599C.svg?style=for-the-badge&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
----
-
-### 📊 GitHub Stats  
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faaran&show_icons=true&theme=radical)  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
